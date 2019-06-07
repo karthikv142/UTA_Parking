@@ -1,0 +1,12 @@
+1,Davis,110,1,,,,
+2,aa,aa,aa,Parking area name must be one of the following: West Garage or Maverick or Davis or Neddermann,Spot number should only be a number between 1-999,Floor number should only be a number between 1-9,Errors Exist
+3,bb,bb,1,Parking area name must be one of the following: West Garage or Maverick or Davis or Neddermann,Spot number should only be a number between 1-999,,Errors Exist
+4,Davis,cc,cc,,Spot number should only be a number between 1-999,Floor number should only be a number between 1-9,Errors Exist
+5,dd,10,dd,Parking area name must be one of the following: West Garage or Maverick or Davis or Neddermann,,Floor number should only be a number between 1-9,Errors Exist
+6,Davis,,1,,Spot number is mandatory,,Errors Exist
+7,Davis,0,1,,Spot number cannot be 0,,Errors Exist
+8,Davis,1000,1,,Spot number should only be a number between 1-999,,Errors Exist
+9,Davis,10,,,,Floor cannot be empty,Errors Exist
+10,Davis,10,10,,,Floor number should only be a number between 1-9,Errors Exist
+11,,10,1,Parking area name cannot be empty,,,Errors Exist
+12,aa,10,1,Parking area name must be one of the following: West Garage or Maverick or Davis or Neddermann,,,Errors Exist

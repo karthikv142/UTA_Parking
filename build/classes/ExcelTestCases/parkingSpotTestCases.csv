@@ -1,0 +1,4 @@
+,,,Spot number is mandatory,Floor cannot be empty,Parking area name cannot be empty,Errors Exist
+0,aa,aa,Spot number cannot be 0,Floor number should only be a number between 1-9,Parking area name must be one of the following: West Garage or Maverick or Davis or Neddermann,Errors Exist
+aa,1,Maverick,Spot number should only be a number between 1-999,,,Errors Exist
+12,1,Maverick,,,,

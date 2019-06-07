@@ -1,0 +1,13 @@
+AAA1234,1234567891,,Manager,m@uta.edu,ACTIVE,,,,,,,
+AAA1234,1234567891,No Show,user,u@uta.edu,NILL,,,,,,,
+AAA12,1234567891,,Manager,m@uta.edu,ACTIVE,License plate number should be exactly 7 characters,,,,,,Please check the following errors
+A123456,1234567891,,Manager,m@uta.edu,ACTIVE,License Plate number should be of the format AAANNNN,,,,,,Please check the following errors
+,1234567891,,Manager,m@uta.edu,ACTIVE,You must provide a license Number,,,,,,Please check the following errors
+AAA1234,1234,,Manager,m@uta.edu,ACTIVE,,Enter Valid Phone Number,,,,,Please check the following errors
+AAA1234,,,Manager,m@uta.edu,ACTIVE,,You must provide a phone,,,,,Please check the following errors
+AAA1234,1234567891,,user,u@uta.edu,NILL,,,Kindly state the reason,,,Kindly state the reason,Please check the following errors
+AAA1234,1234567891,No Show,Manager,m@uta.edu,,,,Kindly enter a status,,,Kindly enter a status,Please check the following errors
+AAA1234,1234567891,No Show,Manager,m@uta.edu,ACTIVE,,,No need to provide Reason,,,No need to provide Reason,Please check the following errors
+AAA1234,1234567891,,,m@uta.edu,ACTIVE,,,,Role cannot be empty,,,Please check the following errors
+AAA1234,1234567891,,Manager,,ACTIVE,,,,,You must provide an email,,Please check the following errors
+AAA1234,1234567891,,Manager,m,ACTIVE,,,,,Not a valid Email!! .edu domain only. Alphanumeric and . only,,Please check the following errors

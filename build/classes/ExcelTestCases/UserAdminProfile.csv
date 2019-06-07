@@ -1,0 +1,5 @@
+1,user_account,,,,,,,Role cannot be empty,You must provide a phone,You must provide an email,You must provide a license Number,Kindly enter a status,Kindly enter a status
+2,user_account,Manager,685454552266,m,AAAAAAAA,asejs,,,Enter Valid Phone Number,Not a valid Email!! .edu domain only. Alphanumeric and . only,License plate number should be exactly 7 characters,Kindly state the reason,Kindly state the reason
+3,user_account,Manager,685454552266,m,AAAAAAAA,Active,jbsjdhjas,,Enter Valid Phone Number,Not a valid Email!! .edu domain only. Alphanumeric and . only,License plate number should be exactly 7 characters,No need to provide Reason,No need to provide Reason
+4,user_account,Manager,685454552266,m,775aaAA,asejs,,,Enter Valid Phone Number,Not a valid Email!! .edu domain only. Alphanumeric and . only,License Plate number should be of the format AAANNNN,Kindly state the reason,Kindly state the reason
+5,user_account,Manager,685454552266,manager@uta.edu,AAA7777,Active,noreason,,,,,,

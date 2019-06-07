@@ -1,0 +1,4 @@
+1,1111222233334444,Visa,
+2,,Visa,A credit card number must be provided.
+3,1111222233334aa5,Visa,Credit card number should be a number.
+4,11112222333344444,Visa,Credit card number should be 16 digits exactly.

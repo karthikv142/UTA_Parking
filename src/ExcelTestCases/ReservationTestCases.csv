@@ -1,0 +1,14 @@
+1,basic_account,basicpassword,1001111111,premium,23:00,15,Please correct the following errors,Basic permit holders can only reserve basic parking areas.,,
+2,midrange_account,midrangepassword,1002222222,premium,23:00,15,Please correct the following errors,Midrange permit holders can only reserve basic or midrange parking areas.,,
+3,premium_account,premiumpassword,1003333333,access,23:00,15,Please correct the following errors,Access parking areas are exclusively reserved for Access permit holders only.,,
+4,access_account,accesspassword,1004444444,premium,23:00,15,Please correct the following errors,Access parking holders can only reserve access parking areas.,,
+5,premium_account,premiumpassword,1003333333,basic,,15,Please correct the following errors,,You must provide a start time.,
+6,premium_account,premiumpassword,1003333333,basic,4:00,15,Please correct the following errors,,Reservation cannot start at/before the current time.,
+7,premium_account,premiumpassword,1003333333,basic,20:30,15,Please correct the following errors,,Start time cannot be less than 15mins from current time.,
+8,premium_account,premiumpassword,1003333333,basic,23:00,,Please correct the following errors,,,You must provide a duration!
+9,premium_account,premiumpassword,1003333333,basic,23:00,text,Please correct the following errors,,,Duration of the reservation must be a number!
+10,premium_account,premiumpassword,1003333333,basic,23:00,181,Please correct the following errors,,,Minimum is 15minutes. The maximum 180(3hours)
+11,premium_account,premiumpassword,1003333333,basic,23:00,16,Please correct the following errors,,,Duration must be in intervals of 15mins
+12,premium_account,premiumpassword,1003333333,basic,23:30,45,Please correct the following errors,,,Start time + duration cannot exceed midnight.
+13,revoked_account,revokedpassword,1009999999,basic,23:00,15,It looks like you are not allowed to make reservations at the moment.,,,
+14,premium_account,premiumpassword,1003333333,basic,23:00,15,,,,

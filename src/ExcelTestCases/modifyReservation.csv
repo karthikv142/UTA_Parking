@@ -1,0 +1,9 @@
+1,,,,The above Errors exist. Please correct them.,Duration cannot be empty,Spot cannot be empty,Time cannot be empty
+2,ABC,ABC,23:45,The above Errors exist. Please correct them.,Duration must be a number!,Spot must be a number!,Please enter time in the format of HH:MM:SS
+3,181,0,ab:30:45,The above Errors exist. Please correct them.,Duration must be within 15 to 180 minutes,Spot must be within 1 to 250,Hour must be a number
+4,33,,23:bc:45,The above Errors exist. Please correct them.,Duration must be in multiples of 15,Spot cannot be empty,Minutes must be a number
+5,,,23:45:cd,The above Errors exist. Please correct them.,Duration cannot be empty,Spot cannot be empty,Seconds must be a number
+6,,,25:45:00,The above Errors exist. Please correct them.,Duration cannot be empty,Spot cannot be empty,Enter a valid hour
+7,,,23:46:00,The above Errors exist. Please correct them.,Duration cannot be empty,Spot cannot be empty,Minutes must be in multiples of 15s and from 00 to 45
+8,,,23:15:65,The above Errors exist. Please correct them.,Duration cannot be empty,Spot cannot be empty,Seconds must be less than 60
+9,45,45,22:45:00,,,,

@@ -1,0 +1,10 @@
+1,useraccount,1001552222,1111112222,a@uta.edu,12345679,,,,
+2,useraccount,1001552222,,a@uta.edu,12345679,You must provide a phone,,,Please check the following errors
+3,useraccount,1001552222,1111112222,,12345679,,You must provide an email,,Please check the following errors
+4,useraccount,1001552222,1111112222,a@uta.edu,,,,You must provide a password,Please check the following errors
+5,useraccount,1001552222,11111112222,a@uta.edu,12345679,Enter Valid Phone Number,,,Please check the following errors
+6,useraccount,1001552222,1111112222,a@uta.com,12345679,,Not a valid Email!! .edu domain only. Alphanumeric and . only,,Please check the following errors
+7,useraccount,1001552222,,,12345679,You must provide a phone,You must provide an email,,Please check the following errors
+8,useraccount,1001552222,1111112222,,,,You must provide an email,You must provide a password,Please check the following errors
+9,useraccount,1001552222,,a@uta.edu,,You must provide a phone,,You must provide a password,Please check the following errors
+10,useraccount,1001552222,,,,You must provide a phone,You must provide an email,You must provide a password,Please check the following errors

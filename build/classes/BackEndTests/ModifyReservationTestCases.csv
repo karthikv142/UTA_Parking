@@ -1,0 +1,57 @@
+1,Submit,7,155,12:45:00,The above Errors exist. Please correct them.,Duration must be within 15 to 180 minutes,,
+2,Submit,181,155,12:45:00,The above Errors exist. Please correct them.,Duration must be within 15 to 180 minutes,,
+3,Submit,0,155,12:45:00,The above Errors exist. Please correct them.,Duration must be within 15 to 180 minutes,,
+4,Submit,181,155,12:45:00,The above Errors exist. Please correct them.,Duration must be within 15 to 180 minutes,,
+5,Submit,46,155,12:45:00,The above Errors exist. Please correct them.,Duration must be in multiples of 15,,
+6,Submit,45,155,12:45:00,,,,
+7,Submit,,155,12:45:00,The above Errors exist. Please correct them.,Duration cannot be empty,,
+8,Submit,30,155,12:45:00,,,,
+9,Submit,abc,155,12:45:00,The above Errors exist. Please correct them.,Duration must be a number!,,
+10,Submit,150,155,12:45:00,,,,
+11,Submit,0,155,12:45:00,The above Errors exist. Please correct them.,Duration must be within 15 to 180 minutes,,
+12,Submit,14,155,12:45:00,The above Errors exist. Please correct them.,Duration must be within 15 to 180 minutes,,
+13,Submit,15,155,12:45:00,,,,
+14,Submit,180,155,12:45:00,,,,
+15,Submit,181,155,12:45:00,The above Errors exist. Please correct them.,Duration must be within 15 to 180 minutes,,
+16,Submit,16,155,12:45:00,The above Errors exist. Please correct them.,Duration must be in multiples of 15,,
+17,Submit,179,155,12:45:00,The above Errors exist. Please correct them.,Duration must be in multiples of 15,,
+18,Submit,180,0,12:45:00,The above Errors exist. Please correct them.,,Spot must be within 1 to 250,
+19,Submit,180,251,12:45:00,The above Errors exist. Please correct them.,,Spot must be within 1 to 250,
+20,Submit,180,275,12:45:00,The above Errors exist. Please correct them.,,Spot must be within 1 to 250,
+21,Submit,180,,12:45:00,The above Errors exist. Please correct them.,,Spot cannot be empty,
+22,Submit,180,155,12:45:00,,,,
+23,Submit,180,175,12:45:00,,,,
+24,Submit,180,abc,12:45:00,The above Errors exist. Please correct them.,,Spot must be a number!,
+25,Submit,180,1,12:45:00,,,,
+26,Submit,180,250,12:45:00,,,,
+27,Submit,180,2,12:45:00,,,,
+28,Submit,180,249,12:45:00,,,,
+29,Submit,180,249,,The above Errors exist. Please correct them.,,,Time cannot be empty
+30,Submit,180,249,12:45:00,,,,
+31,Submit,180,249,02:45:00,,,,
+32,Submit,180,249,123:45:00,The above Errors exist. Please correct them.,,,Please enter time in the format of HH:MM:SS
+33,Submit,180,249,rd:30:45,The above Errors exist. Please correct them.,,,Hour must be a number
+34,Submit,180,249,00:30:30,,,,
+35,Submit,180,249,25:30:30,The above Errors exist. Please correct them.,,,Enter a valid hour
+36,Submit,180,249,08:30:30,,,,
+37,Submit,180,249,30:30:30,The above Errors exist. Please correct them.,,,Enter a valid hour
+38,Submit,180,249,23:30:30,,,,
+39,Submit,180,249,01:30:30,,,,
+40,Submit,180,249,24:30:30,The above Errors exist. Please correct them.,,,Enter a valid hour
+41,Submit,180,249,,The above Errors exist. Please correct them.,,,Time cannot be empty
+42,Submit,180,249,13:55:55,The above Errors exist. Please correct them.,,,Minutes must be in multiples of 15s and from 00 to 45
+44,Submit,180,249,23:59:55,The above Errors exist. Please correct them.,,,Minutes must be in multiples of 15s and from 00 to 45
+45,Submit,180,249,23:60:55,The above Errors exist. Please correct them.,,,Minutes must be in multiples of 15s and from 00 to 45
+46,Submit,180,249,13:00:55,,,,
+47,Submit,180,249,13:33:55,The above Errors exist. Please correct them.,,,Minutes must be in multiples of 15s and from 00 to 45
+48,Submit,180,249,13:45:59,,,,
+49,Submit,180,249,13:61:59,The above Errors exist. Please correct them.,,,Minutes must be in multiples of 15s and from 00 to 45
+50,Submit,180,249,13:av:45,The above Errors exist. Please correct them.,,,Minutes must be a number
+51,Submit,180,249,13:45:60,The above Errors exist. Please correct them.,,,Seconds must be less than 60
+52,Submit,180,249,13:45:58,,,,
+53,Submit,180,249,13:45:59,,,,
+54,Submit,180,249,13:45:61,The above Errors exist. Please correct them.,,,Seconds must be less than 60
+55,Submit,180,249,13:45:vs,The above Errors exist. Please correct them.,,,Seconds must be a number
+56,Submit,180,249,@$:15:15,The above Errors exist. Please correct them.,,,Hour must be a number
+57,Submit,180,249,15:**:15,The above Errors exist. Please correct them.,,,Minutes must be a number
+58,Submit,180,249,15:15:**,The above Errors exist. Please correct them.,,,Seconds must be a number

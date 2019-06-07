@@ -1,0 +1,1 @@
+1,basic,23:15,15,visa,,1,A credit card number must be provided.2,basic,23:15,15,visa,notANumber,1,Credit card number should be a number.3,basic,23:15,15,visa,123,1,Credit card number should be 16 digits exactly.4,basic,23:15,15,visa,1015118750000000,1,5,basic,22:30,15,visa,,0,

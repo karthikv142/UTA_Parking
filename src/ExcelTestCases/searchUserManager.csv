@@ -1,0 +1,6 @@
+1,,Username cannot be empty
+2,Rog#$%er,Username cannot contain special characters
+3,Roger,Username too short: length must be within 8 to 16
+4,RogerFedererIsTheGreatestOfAllTime,Username too long: length must be within 8 to 16
+5,21RogerFederer,Username must start with an alphabet
+6,samerole,

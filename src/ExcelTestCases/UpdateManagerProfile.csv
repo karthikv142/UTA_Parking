@@ -1,0 +1,4 @@
+1,,,,You must provide a phone, You must provide an email, You must provide a password
+2,123445,seleniumtest@,,Enter Valid Phone Number, Not a valid Email!! .edu domain only. Alphanumeric and . only, You must provide a password
+3,,seleniumtest@,,You must provide a phone, Not a valid Email!! .edu domain only. Alphanumeric and . only,You must provide a password
+4,6825526666,seleniumtest@uta.edu,123456789,,,

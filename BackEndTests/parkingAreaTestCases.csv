@@ -1,0 +1,10 @@
+1,1,abcd,1,0,0,0,,,,,
+1,1,abcd,0,1,0,0,,,,,
+1,1,abcd,0,0,1,0,,,,,
+1,1,abcd,0,0,0,1,,,,,
+1,1,abcd,1,1,1,1,,,,,
+1,1,,1,1,1,1,,,You must provide a Parking Area Name,,Please check the following errors
+1,,abcd,1,1,1,1,,You must provide a Value.,,,Please check the following errors
+,1,abcd,1,1,1,1,You must provide a Value.,,,,Please check the following errors
+1,1,abcd,0,0,0,0,,,,Please select the following options,Please check the following errors
+,,,0,0,0,0,You must provide a Value.,You must provide a Value.,You must provide a Parking Area Name,Please select the following options,Please check the following errors
